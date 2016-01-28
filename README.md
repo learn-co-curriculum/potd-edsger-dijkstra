@@ -2,4 +2,4 @@
 
 ## Programmer of the Day: Edsger Dijkstra
 
-<a href='https://learn.co/lessons/potd-edsger-dijkstra' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/potd-edsger-dijkstra' title='Programmer of the Day: Edsger Dijkstra'>Programmer of the Day: Edsger Dijkstra</a> on Learn.co and start learning to code for free.</p>
